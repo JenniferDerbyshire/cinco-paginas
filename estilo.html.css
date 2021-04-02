@@ -1,0 +1,16 @@
+@charset "utf-8";
+#contenido {
+    margin-top: 20px;
+    padding-top: 10px;
+}
+imagen {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#contenido page dos {
+    margin-top: 50px;
+}
+#pagina1 {
+}
